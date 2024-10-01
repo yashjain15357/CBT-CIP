@@ -1,0 +1,5 @@
+2024-09-22 12:50:48,240 - INFO - Successfully fetched https://www.linkedin.com/analytics/creator/content/?metricType=IMPRESSIONS&timeRange=past_7_days
+2024-09-22 12:50:48,256 - INFO - Successfully parsed HTML
+2024-09-22 12:50:48,266 - ERROR - Error saving data to CSV: Cannot save file into a non-existent directory: 'data'
+2024-09-22 12:50:48,267 - ERROR - Error saving data to database: (sqlite3.OperationalError) unable to open database file
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
